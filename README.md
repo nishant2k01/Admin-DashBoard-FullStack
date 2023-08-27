@@ -15,12 +15,15 @@ A complete Full Stack Admin DeshBoard Application using MERN Stack.
 
 ## 👀 Preview
 1. Home Screen : Dark Mode
+   
 ![image](https://www.linkpicture.com/q/dark-homePage.png)
 
-2. Home Screen : Light Mode
+3. Home Screen : Light Mode
+   
 ![image](https://www.linkpicture.com/q/light-homePage.png)
 
-4. Schema that's used to build this complete MERN dashboard applicaion
+5. Schema that's used to build this complete MERN dashboard applicaion
+   
 ![image](https://www.linkpicture.com/q/ER-db-image.png)
 
 
