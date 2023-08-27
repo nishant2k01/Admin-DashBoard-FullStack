@@ -6,8 +6,8 @@ A complete Full Stack Admin DeshBoard Application using MERN Stack.
 
 ## 🚀 Features
 
-- A complete MERN React Admin Dashboard that customized in both Dark & Light Mode.
-- It contains multiple screen for different different users.
+- A complete MERN Admin Dashboard that customized in both Dark & Light Mode.
+- It contains multiple Ecommerce screen for different users.
 
 ## 🧰 Technologies Used
 
